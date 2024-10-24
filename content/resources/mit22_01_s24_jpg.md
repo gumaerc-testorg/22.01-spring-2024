@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024/mit22_01_s24.jpg
+file: /ol-ocw-studio-app/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024/mit22_01_s24.jpg
 file_size: 119070
 file_type: image/jpeg
 image_metadata:
