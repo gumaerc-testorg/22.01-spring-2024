@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024/mit22_01_s24_damage.pdf
+file: courses/2201-introduction-to-nuclear-engineering-and-ionizing-radiation/mit22_01_s24_damage.pdf
 file_size: 6114594
 file_type: application/pdf
 image_metadata:
