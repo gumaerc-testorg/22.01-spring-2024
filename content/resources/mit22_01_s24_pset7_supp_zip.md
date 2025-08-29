@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/2201-introduction-to-nuclear-engineering-and-ionizing-radiation/mit22_01_s24_pset7_supp.zip
+file: /ol-ocw-studio-app/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024/mit22_01_s24_pset7_supp.zip
 file_size: 594865
 file_type: application/zip
 image_metadata:
