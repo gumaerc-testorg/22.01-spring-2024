@@ -30,7 +30,7 @@ Below, Professor Michael Short describes various aspects of how he teaches *22.0
 
 It’s a safe bet that *22.01 Introduction to Nuclear Engineering and Ionizing Radiation* is the only course at MIT where students are encouraged to bring their toenail clippings to class. In the episode of the Chalk Radio podcast embedded below, Prof. Short discusses one of the core principles of his teaching philosophy: the importance of making abstract concepts tangible by means of hands-on activities. Want to know how much gold or arsenic is in your body? Bombard the aforementioned toenail clippings with neutrons in a reactor and see what gamma rays they give off! Want to know whether the stone in your ring is a genuine diamond or just a cubic zirconia? Put it under the electron microscope! Prof. Short also emphasizes the value of opening “knowledge gaps”—awakening his students’ curiosity by focusing on interesting questions they don’t yet know the answer to. Later, Prof. Short describes how he designed the course with a built-in mechanism for collecting real-time feedback so that he can respond immediately to students’ concerns. As a bonus, near the end of the podcast, Prof. Short answers various nuclear science questions posed by actual OpenCourseWare users. 
 
-{{< simplecast "61722d76-41e4-4005-8f84-374492f8fdfb" >}}
+{{< resource uuid="b07e51e8-8ae2-497c-b24b-0ae3d5afe4b5" >}}
 
 ## Curriculum Information
 
