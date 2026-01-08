@@ -42,7 +42,7 @@ This course, which is the first subject in the Nuclear Science and Engineering u
 
 - GIR ![](/images/educator/icon-question-gir.png)
 - REST ![](/images/educator/icon-question-rest.png)
-- {{% resource_link "486e7f07-5f5a-4834-b6b1-7ede89b6ffc1" "Nuclear Science and Engineering bachelor’s degree requirements" %}}
+- [Nuclear Science and Engineering bachelor’s degree requirements](http://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/)
 
 ### Offered
 
@@ -71,7 +71,7 @@ Primarily second-, third-, and fourth-year undergraduates, along with a few firs
 
 ### Breakdown by Major
 
-In the past the class typically consisted entirely of {{% resource_link "0c50341a-cdc6-4104-8a47-ef364858e86c" "Nuclear Science and Engineering" %}} (NSE) majors; it is now about one-third to one-half NSE majors, with the remainder of the students concentrating in other fields such as {{% resource_link "95365f47-52fb-4520-a992-26fa1f30d86a" "Electrical Engineering and Computer Science" %}} or {{% resource_link "5e9306fb-58e8-405e-9d6b-1822a6172b35" "Mechanical Engineering" %}}.
+In the past the class typically consisted entirely of [Nuclear Science and Engineering](http://web.mit.edu/nse/) (NSE) majors; it is now about one-third to one-half NSE majors, with the remainder of the students concentrating in other fields such as [Electrical Engineering and Computer Science](https://www.eecs.mit.edu/) or [Mechanical Engineering](http://meche.mit.edu/education/undergraduate/course-2).
 
 ### Typical Student Background
 
